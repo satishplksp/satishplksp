@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satish p
-- 👀 I’m interested in Front End development
+
 
 
 <!---
